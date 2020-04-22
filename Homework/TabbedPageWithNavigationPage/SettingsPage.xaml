@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TabbedPageWithNavigationPage.SettingsPage" Title="Age To Drive">
+	<ContentPage.Content>
+        <StackLayout>
+            <Label Text="Enter Your Age" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            <Entry x:Name="age" Text="Enter Here" />
+            <Button Text="submit" Clicked="onClicked"/>
+            <Label x:Name="Output"></Label>
+            
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.deps.json
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.dll
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\bin\Debug\netstandard2.0\TabbedPageWithNavigationPage.pdb
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.csprojAssemblyReference.cache
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.AssemblyInfoInputs.cache
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.AssemblyInfo.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.dll
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TabbedPageWithNavigationPage.pdb
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\SchedulePage.xaml.g.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\TodayPage.xaml.g.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\UpcomingAppointmentsPage.xaml.g.cs
+C:\Users\rsand\Desktop\School\SPRING2020\Mobile App\Homework\TabbedPageWithNavigationPage\obj\Debug\netstandard2.0\XamlC.stamp
